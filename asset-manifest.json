@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/prom/static/css/main.d74aaacd.css",
-    "main.js": "/prom/static/js/main.2f1b0030.js",
-    "static/js/787.e7f27287.chunk.js": "/prom/static/js/787.e7f27287.chunk.js",
-    "static/media/an.gif": "/prom/static/media/an.474301f0a80eb24162fa.gif",
-    "static/media/download.gif": "/prom/static/media/download.8e744b3df65a33e6583a.gif",
-    "static/media/speaker.svg": "/prom/static/media/speaker.4d34d738c8554d08799d0dbcd887e86e.svg",
-    "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/prom/static/media/PlayfairDisplay-VariableFont_wght.bf46a6bcddc9999a295e.ttf",
-    "static/media/fomt.otf": "/prom/static/media/fomt.3fe0c13d9be9924a01c8.otf",
-    "static/media/clg.png": "/prom/static/media/clg.fc806e450d0f4af6f1fa.png",
-    "static/media/pp.png": "/prom/static/media/pp.866bf3e8d761a71fb58b.png",
-    "static/media/1707013909913.png": "/prom/static/media/1707013909913.2554b3e3b1cd88dfaf3c.png",
-    "static/media/Orbitron-VariableFont_wght.ttf": "/prom/static/media/Orbitron-VariableFont_wght.7228a1c750b75b23bdb4.ttf",
-    "static/media/bgline.svg": "/prom/static/media/bgline.24e06d1d58aad4a8cab04a22602cedd7.svg",
-    "static/media/line.svg": "/prom/static/media/line.94f7c409db42154d5cb04182210aca83.svg",
-    "index.html": "/prom/index.html",
-    "main.d74aaacd.css.map": "/prom/static/css/main.d74aaacd.css.map",
-    "main.2f1b0030.js.map": "/prom/static/js/main.2f1b0030.js.map",
-    "787.e7f27287.chunk.js.map": "/prom/static/js/787.e7f27287.chunk.js.map"
+    "main.css": "/prominence/static/css/main.aa5e2362.css",
+    "main.js": "/prominence/static/js/main.71470aaf.js",
+    "static/js/787.f576a441.chunk.js": "/prominence/static/js/787.f576a441.chunk.js",
+    "static/media/an.gif": "/prominence/static/media/an.474301f0a80eb24162fa.gif",
+    "static/media/download.gif": "/prominence/static/media/download.8e744b3df65a33e6583a.gif",
+    "static/media/speaker.svg": "/prominence/static/media/speaker.4d34d738c8554d08799d0dbcd887e86e.svg",
+    "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/prominence/static/media/PlayfairDisplay-VariableFont_wght.bf46a6bcddc9999a295e.ttf",
+    "static/media/fomt.otf": "/prominence/static/media/fomt.3fe0c13d9be9924a01c8.otf",
+    "static/media/clg.png": "/prominence/static/media/clg.fc806e450d0f4af6f1fa.png",
+    "static/media/pp.png": "/prominence/static/media/pp.866bf3e8d761a71fb58b.png",
+    "static/media/1707013909913.png": "/prominence/static/media/1707013909913.2554b3e3b1cd88dfaf3c.png",
+    "static/media/Orbitron-VariableFont_wght.ttf": "/prominence/static/media/Orbitron-VariableFont_wght.7228a1c750b75b23bdb4.ttf",
+    "static/media/bgline.svg": "/prominence/static/media/bgline.24e06d1d58aad4a8cab04a22602cedd7.svg",
+    "static/media/line.svg": "/prominence/static/media/line.94f7c409db42154d5cb04182210aca83.svg",
+    "index.html": "/prominence/index.html",
+    "main.aa5e2362.css.map": "/prominence/static/css/main.aa5e2362.css.map",
+    "main.71470aaf.js.map": "/prominence/static/js/main.71470aaf.js.map",
+    "787.f576a441.chunk.js.map": "/prominence/static/js/787.f576a441.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d74aaacd.css",
-    "static/js/main.2f1b0030.js"
+    "static/css/main.aa5e2362.css",
+    "static/js/main.71470aaf.js"
   ]
 }
