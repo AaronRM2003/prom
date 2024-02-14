@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.15c48ff2.css",
-    "main.js": "/static/js/main.22e54a4e.js",
+    "main.css": "/static/css/main.247bdfa6.css",
+    "main.js": "/static/js/main.fbacd10a.js",
     "static/js/787.e7f27287.chunk.js": "/static/js/787.e7f27287.chunk.js",
     "static/media/ss1.png": "/static/media/ss1.ab26e0fd85259a7db960.png",
     "static/media/ss4.png": "/static/media/ss4.69a6296af391e00b530d.png",
@@ -16,26 +16,30 @@
     "static/media/ss3.png": "/static/media/ss3.4a01b84f59e9fb487f94.png",
     "static/media/IMG-20240205-WA0031.jpg": "/static/media/IMG-20240205-WA0031.dbd733ed81cd902e99b4.jpg",
     "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/static/media/PlayfairDisplay-VariableFont_wght.bf46a6bcddc9999a295e.ttf",
+    "static/media/IMG-20240213-WA0001.jpg": "/static/media/IMG-20240213-WA0001.9522b8be3675d169d27e.jpg",
     "static/media/Exo2-VariableFont_wght.ttf": "/static/media/Exo2-VariableFont_wght.aeccf0dc14af7f9be10e.ttf",
     "static/media/IMG-20240209-WA0005.jpg": "/static/media/IMG-20240209-WA0005.00e59a023ef357f5fcaf.jpg",
     "static/media/mainblock.jpg": "/static/media/mainblock.7e02151f8daaade7a259.jpg",
+    "static/media/IMG-20240213-WA0004.jpg": "/static/media/IMG-20240213-WA0004.e42a86b433bfc5ca100d.jpg",
     "static/media/IMG-20240209-WA0004.jpg": "/static/media/IMG-20240209-WA0004.77cdbb2057e231b201be.jpg",
     "static/media/fomt.otf": "/static/media/fomt.3fe0c13d9be9924a01c8.otf",
     "static/media/IMG-20240213-WA0007.jpg": "/static/media/IMG-20240213-WA0007.8aae03f92a169d40f572.jpg",
     "static/media/pp.png": "/static/media/pp.866bf3e8d761a71fb58b.png",
     "static/media/IMG-20240209-WA0006.jpg": "/static/media/IMG-20240209-WA0006.3a8047637f7a5c6c2425.jpg",
     "static/media/IMG-20240209-WA0003.jpg": "/static/media/IMG-20240209-WA0003.74e4ce85e739781d8a02.jpg",
+    "static/media/ProtestGuerrilla-Regular.ttf": "/static/media/ProtestGuerrilla-Regular.cb6024c9bca7ab764ca3.ttf",
+    "static/media/IMG-20240213-WA0040.jpg": "/static/media/IMG-20240213-WA0040.4076e0f5b2df13a59c16.jpg",
     "static/media/ProtestStrike-Regular.ttf": "/static/media/ProtestStrike-Regular.bff15d54aae47435cd1e.ttf",
     "static/media/1707013909913.png": "/static/media/1707013909913.2554b3e3b1cd88dfaf3c.png",
     "static/media/bgline.svg": "/static/media/bgline.8d70928eada400d4a825580b3036b9ae.svg",
     "index.html": "/index.html",
     "static/media/line.svg": "/static/media/line.34686446ac2f3ff522babf7e3f6b2e1a.svg",
-    "main.15c48ff2.css.map": "/static/css/main.15c48ff2.css.map",
-    "main.22e54a4e.js.map": "/static/js/main.22e54a4e.js.map",
+    "main.247bdfa6.css.map": "/static/css/main.247bdfa6.css.map",
+    "main.fbacd10a.js.map": "/static/js/main.fbacd10a.js.map",
     "787.e7f27287.chunk.js.map": "/static/js/787.e7f27287.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15c48ff2.css",
-    "static/js/main.22e54a4e.js"
+    "static/css/main.247bdfa6.css",
+    "static/js/main.fbacd10a.js"
   ]
 }
