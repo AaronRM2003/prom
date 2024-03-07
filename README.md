@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# Prominence Event Website 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Prominence, your go-to mobile event website for the amazing events happening on March 21st and 22nd!
 
-## Available Scripts
+## What's Prominence?
 
-In the project directory, you can run:
+Prominence is your one-stop destination for all the exciting events taking place on March 21st and 22nd. Whether it's concerts, workshops, or meetups, we've got you covered!
 
-### `npm start`
+## How to Access
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Visit [prominence24.online](https://www.prominence24.online) on your mobile device.
+2. Browse through the events and discover what's happening near you.
+3. Click on any event to get more details and RSVP.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Save the Dates!
 
-### `npm test`
+Mark your calendars for March 21st and 22nd because you won't want to miss out on these incredible events!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Contributing
 
-### `npm run build`
+Found a bug or want to suggest an improvement? Feel free to open an issue or submit a pull request on our [GitHub repository](https://github.com/prominence-events).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Spread the Word
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Help us spread the word about Prominence by sharing the link with your friends and followers on social media. Let's make these events unforgettable!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+See you at the events! 🎉
