@@ -89,19 +89,19 @@ function App() {
      
      <div style={{fontFamily:'fomt3',marginLeft:'10%'}}>
      <div>
-      <Link  to="/" onClick={Shownav} style={{ WebkitTapHighlightColor:'transparent',color:'white', textDecoration:'none'}}> <h1 style={{marginTop:'5%'}}>Home</h1></Link>
+      <Link  to="/prom/" onClick={Shownav} style={{ WebkitTapHighlightColor:'transparent',color:'white', textDecoration:'none'}}> <h1 style={{marginTop:'5%'}}>Home</h1></Link>
       </div>
      <div>
-      <Link to="/About" onClick={Shownav} style={{   WebkitTapHighlightColor:'transparent',color:'white', textDecoration:'none'}}> <h1 style={{marginTop:'5%'}}>About RIT</h1></Link>
+      <Link to="/prom/About" onClick={Shownav} style={{   WebkitTapHighlightColor:'transparent',color:'white', textDecoration:'none'}}> <h1 style={{marginTop:'5%'}}>About RIT</h1></Link>
       </div>
       <div>
-      <Link to="/Events" onClick={Shownav} style={{ WebkitTapHighlightColor:'transparent',color:'white', textDecoration:'none'}}> <h1 style={{marginTop:'5%'}} >Events</h1></Link>
+      <Link to="/prom/Events" onClick={Shownav} style={{ WebkitTapHighlightColor:'transparent',color:'white', textDecoration:'none'}}> <h1 style={{marginTop:'5%'}} >Events</h1></Link>
       </div>
       <div>
-      <Link to="/PreEvents" onClick={Shownav} style={{ WebkitTapHighlightColor:'transparent',color:'white', textDecoration:'none'}}> <h1 style={{marginTop:'5%'}} >Pre-Events</h1></Link>
+      <Link to="/prom/PreEvents" onClick={Shownav} style={{ WebkitTapHighlightColor:'transparent',color:'white', textDecoration:'none'}}> <h1 style={{marginTop:'5%'}} >Pre-Events</h1></Link>
       </div>
       <div>
-      <Link to="/Contacts" onClick={Shownav} style={{ WebkitTapHighlightColor:'transparent',color:'white', textDecoration:'none'}}> <h1 style={{marginTop:'5%'}} >Contacts</h1></Link>
+      <Link to="/prom/Contacts" onClick={Shownav} style={{ WebkitTapHighlightColor:'transparent',color:'white', textDecoration:'none'}}> <h1 style={{marginTop:'5%'}} >Contacts</h1></Link>
       </div>
 
        </div>
