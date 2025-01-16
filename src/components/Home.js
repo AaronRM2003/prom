@@ -264,12 +264,12 @@ function Home() {
    </div>
    <div className="page" style={{zIndex:'3px'}}>
     <div style={{alignItems:'center',display:'flex',flexDirection:'column'}}>
-    <Link to="/Events"  style={{ WebkitTapHighlightColor:'transparent',color:'white', textDecoration:'none',marginTop:'10%',display:'flex',flexDirection:'column',alignItems:'center'}}>
+    <Link to="/prom/Events"  style={{ WebkitTapHighlightColor:'transparent',color:'white', textDecoration:'none',marginTop:'10%',display:'flex',flexDirection:'column',alignItems:'center'}}>
 
    <button style={{fontFamily:'fomt',width:'200%',height:'120%'}} class="button-77" role="button">events</button></Link>
    </div>
    <div style={{alignItems:'center',display:'flex',flexDirection:'column'}}>
-    <Link to="/PreEvents"  style={{ WebkitTapHighlightColor:'transparent',color:'white', textDecoration:'none',marginTop:'10%',display:'flex',flexDirection:'column',alignItems:'center'}}>
+    <Link to="/prom/PreEvents"  style={{ WebkitTapHighlightColor:'transparent',color:'white', textDecoration:'none',marginTop:'10%',display:'flex',flexDirection:'column',alignItems:'center'}}>
 
    <button style={{fontFamily:'fomt',width:'120%',height:'120%'}} class="button-771" role="button">Pre-Events</button></Link>
    </div>
