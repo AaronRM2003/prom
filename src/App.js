@@ -71,12 +71,12 @@ function App() {
 
         <Routes>
           
-        <Route path="/" element={<Home />} /> 
+        <Route path="/prom/" element={<Home />} /> 
 
-        <Route path='/About' element={<About/>} />
-        <Route path='/Events' element={<Events/>} />
-        <Route path='/PreEvents' element={<PreEvents/>} />
-        <Route path='/Contacts' element={<Contacts/>} />
+        <Route path='/prom/About' element={<About/>} />
+        <Route path='/prom/Events' element={<Events/>} />
+        <Route path='/prom/PreEvents' element={<PreEvents/>} />
+        <Route path='/prom/Contacts' element={<Contacts/>} />
 
        
           </Routes>
